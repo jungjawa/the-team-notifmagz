@@ -1,0 +1,220 @@
+<style>
+.node {
+	color: #2d2d2d;
+	font-family: QuicksandBook;
+	font-size: 16px;
+	line-height: 28.7999992370605px;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+.grid {
+	color: #2d2d2d;
+	font-family: QuicksandBook;
+	font-size: 16px;
+	line-height: 28.7999992370605px;
+	margin: 0px auto;
+	max-width: 1140px;
+	padding-left: 0px;
+	padding-right: 0px;
+	position: relative;
+	width: 1140px;
+}
+
+.item {
+	box-sizing: border-box;
+	display: inline-block;
+	max-width: 1140px;
+	position: relative;
+	vertical-align: top;
+	width: 380px;
+}
+
+.circular-image {
+	background: rgb(255, 255, 255);
+	border-radius: 50% 50% 50% 4px;
+	box-sizing: border-box;
+	margin-bottom: 32px;
+	padding: 10px;
+	position: relative;
+	width: 316px;
+}
+</style>
+
+<div class="node">
+	<h1 class="heading heading-uber-leading heading-collapse-whole-line heading-centre" style="color: #0096db; font-family: QuicksandBold; font-size: 48px; font-weight: 400; line-height: 1; margin: 0px 0px 48px; padding: 0px; text-align: center; text-transform: uppercase; width: 1100px;">The Team</h1>
+</div>
+
+<div class="grid">
+
+<br />
+<br />
+
+<!-- Mahadewi========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Mahadewi" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">Mahadewi
+			</h1>
+
+			<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">Editor in Chief
+			</h2>
+		</hgroup>
+
+			<br />
+
+			<div style="margin-bottom: 32px; padding: 0px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+			</div>
+		</div>
+	</article>
+
+<!-- Mahadewi========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Mahadewi" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">Mahadewi
+			</h1>
+
+			<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">Editor in Chief
+			</h2>
+		</hgroup>
+
+			<br />
+
+			<div style="margin-bottom: 32px; padding: 0px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+			</div>
+		</div>
+	</article>
+
+<!-- Cindra========================== -->
+<article class="item">
+<div class="node">
+	<div class="circular-image">
+		<img alt="Cindra Prasasti" src="http://lh3.googleusercontent.com/-hGfgaS3m22c/Vb7-8_6uo_I/AAAAAAAABfU/PFNUdruYVOg/s593/6c5ef8f7-7b6e-455d-982b-a7da0ae59a7e" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" />
+	</div>
+
+<div class="content">
+
+		<br />
+		<br />
+	<hgroup>
+		<h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">Cindra</h1>
+			<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">Social Media Admin</h2>
+	</hgroup>
+
+		<br />
+
+		<div style="margin-bottom: 32px; padding: 0px;">Lorem ipsum dolor sit amet concetum vlar laknfjdnfieenfenfenjbvmrnvkrivir vjnvjv euvhj veugfyegf eewbf eofne.</div>
+	</div>
+</div>
+</article>
+
+<!-- Cindra========================== -->
+<article class="item">
+<div class="node">
+	<div class="circular-image">
+		<img alt="Rich Sherwell" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
+Arie</h1>
+<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
+Senior Graphic Designer</h2>
+</hgroup><br />
+<div style="margin-bottom: 32px; padding: 0px;">
+<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+</div>
+</article><article class="item" style="box-sizing: border-box; display: inline-block; max-width: 1140px; position: relative; vertical-align: top; width: 380px;"><div class="node" style="padding: 0px 32px 32px;">
+<div class="circular-image" style="background: rgb(255, 255, 255); border-radius: 50% 50% 50% 4px; box-sizing: border-box; margin-bottom: 32px; padding: 10px; position: relative; width: 316px;">
+<img alt="Arie" src="https://lh4.googleusercontent.com/-7z-FpK_3eP0/VCbJ5mkB8-I/AAAAAAAAACs/QwK8yyHACxg/s593-no/ngelamun-aja.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
+Udafanz</h1>
+<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
+Keyword Ninja</h2>
+</hgroup><br />
+<div style="margin-bottom: 32px; padding: 0px;">
+<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+</div>
+</article><article class="item" style="box-sizing: border-box; display: inline-block; max-width: 1140px; position: relative; vertical-align: top; width: 380px;"><div class="node" style="padding: 0px 32px 32px;">
+<div class="circular-image" style="background: rgb(255, 255, 255); border-radius: 50% 50% 50% 4px; box-sizing: border-box; margin-bottom: 32px; padding: 10px; position: relative; width: 316px;">
+<img alt="Arran Jacques" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
+Elang</h1>
+<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
+Keyword Ninja</h2>
+</hgroup><br />
+<div style="margin-bottom: 32px; padding: 0px;">
+<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+</div>
+</article><article class="item" style="box-sizing: border-box; display: inline-block; max-width: 1140px; position: relative; vertical-align: top; width: 380px;"><div class="node" style="padding: 0px 32px 32px;">
+<div class="circular-image" style="background: rgb(255, 255, 255); border-radius: 50% 50% 50% 4px; box-sizing: border-box; margin-bottom: 32px; padding: 10px; position: relative; width: 316px;">
+<img alt="Johnny Morgan" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
+Titi</h1>
+<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
+Editor</h2>
+</hgroup><br />
+<div style="margin-bottom: 32px; padding: 0px;">
+<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+</div>
+</article></div>
