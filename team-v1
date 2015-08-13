@@ -1,220 +1,548 @@
+<head>
+ <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"></link>
+</head>
+
 <style>
 .node {
-	color: #2d2d2d;
-	font-family: QuicksandBook;
-	font-size: 16px;
-	line-height: 28.7999992370605px;
-	padding-left: 24px;
-	padding-right: 24px;
+ color: #2d2d2d;
+ font-family: QuicksandBook;
+ font-size: 16px;
+ line-height: 28.7999992370605px;
+ padding-left: 24px;
+ padding-right: 24px;
+ width: 100%
 }
 
 .grid {
-	color: #2d2d2d;
-	font-family: QuicksandBook;
-	font-size: 16px;
-	line-height: 28.7999992370605px;
-	margin: 0px auto;
-	max-width: 1140px;
-	padding-left: 0px;
-	padding-right: 0px;
-	position: relative;
-	width: 1140px;
+ color: #2d2d2d;
+ font-family: QuicksandBook;
+ font-size: 16px;
+ line-height: 28.7999992370605px;
+ margin: 0px auto;
+ max-width: 1140px;
+ padding-left: 0px;
+ padding-right: 0px;
+ position: relative;
+ width: 1140px;
 }
 
 .item {
-	box-sizing: border-box;
-	display: inline-block;
-	max-width: 1140px;
-	position: relative;
-	vertical-align: top;
-	width: 380px;
+ box-sizing: border-box;
+ display: inline-block;
+ max-width: 1140px;
+ position: relative;
+ vertical-align: top;
+ width: 33%;
 }
 
 .circular-image {
-	background: rgb(255, 255, 255);
-	border-radius: 50% 50% 50% 4px;
-	box-sizing: border-box;
-	margin-bottom: 32px;
-	padding: 10px;
-	position: relative;
-	width: 316px;
+ background: rgb(255, 255, 255);
+ border-radius: 50% 50% 50% 4px;
+ box-sizing: border-box;
+ margin-bottom: 32px;
+ padding: 10px;
+ position: relative;
+ width: 316px;
 }
+
+.heading-judul {
+ color: #0096db;
+ font-family: 'Lato', sans-serif;
+ font-size: 48px;
+ font-weight: 400;
+ line-height: 1;
+ margin: 0px 0px 48px;
+ padding: 0px;
+ text-align: center;
+ text-transform: uppercase;
+ width: 1140px;
+}
+
+.heading-nama {
+ color: #008ccc;
+ font-family: 'Lato', sans-serif;
+ font-size: 24px;
+ font-weight: 400;
+ line-height: 1.2;
+ margin: 0px 0px 8px;
+ padding: 0px;
+ text-align: center;
+}
+
+.heading-jabatan {
+ font-family: 'Lato', sans-serif;
+ font-size: 10px;
+ font-weight: 400;
+ line-height: 1.2;
+ margin: 0px 0px 16px;
+ padding: 0px;
+ color: #0096db;
+ text-align: center;
+}
+
+.biosingkat {
+ margin-bottom: 32px;
+ padding: 0px;
+ text-align: center;
+}
+
+.foto-profil {
+ border-radius: 50%;
+ -webkit-filter: grayscale(100%);
+ display: block;
+ height: auto;
+ position: relative;
+ width: 296px;
+ z-index: 0;
+}
+
+.list-inline {
+    display: inline-flex;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.widget .post-body ul {
+    padding: 0 1.2em;
+    margin: 1px;
+    line-height: 1.4;
+}
+
 </style>
 
+<br />
 <div class="node">
-	<h1 class="heading heading-uber-leading heading-collapse-whole-line heading-centre" style="color: #0096db; font-family: QuicksandBold; font-size: 48px; font-weight: 400; line-height: 1; margin: 0px 0px 48px; padding: 0px; text-align: center; text-transform: uppercase; width: 1100px;">The Team</h1>
+<h2 class="heading-judul">
+ The Team
+ </h2>
 </div>
-
 <div class="grid">
-
 <br />
 <br />
-
 <!-- Mahadewi========================== -->
-	<article class="item">
-		<div class="node">
-			<div class="circular-image">
-				<img alt="Mahadewi" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" />
-			</div>
-		
-			<br />
-			<br />
-
-		<hgroup>
-			<h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">Mahadewi
-			</h1>
-
-			<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">Editor in Chief
-			</h2>
-		</hgroup>
-
-			<br />
-
-			<div style="margin-bottom: 32px; padding: 0px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-			</div>
-		</div>
-	</article>
-
-<!-- Mahadewi========================== -->
-	<article class="item">
-		<div class="node">
-			<div class="circular-image">
-				<img alt="Mahadewi" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" />
-			</div>
-		
-			<br />
-			<br />
-
-		<hgroup>
-			<h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">Mahadewi
-			</h1>
-
-			<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">Editor in Chief
-			</h2>
-		</hgroup>
-
-			<br />
-
-			<div style="margin-bottom: 32px; padding: 0px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-			</div>
-		</div>
-	</article>
-
-<!-- Cindra========================== -->
+ <br />
+<br />
+<br />
+<br />
 <article class="item">
-<div class="node">
-	<div class="circular-image">
-		<img alt="Cindra Prasasti" src="http://lh3.googleusercontent.com/-hGfgaS3m22c/Vb7-8_6uo_I/AAAAAAAABfU/PFNUdruYVOg/s593/6c5ef8f7-7b6e-455d-982b-a7da0ae59a7e" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" />
-	</div>
+  <div class="node">
+<div class="circular-image">
+<img alt="Mahadewi" class="foto-profil" src="https://lh4.googleusercontent.com/-clNui1Uz7aA/Um4Pkypm0FI/AAAAAAAAASQ/M94KT9xnXig/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Mahadewi
+   </h2>
+<h4 class="heading-jabatan">
+   Editor in Chief
+   </h4>
+</hgroup>
 
-<div class="content">
-
-		<br />
-		<br />
-	<hgroup>
-		<h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">Cindra</h1>
-			<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">Social Media Admin</h2>
-	</hgroup>
-
-		<br />
-
-		<div style="margin-bottom: 32px; padding: 0px;">Lorem ipsum dolor sit amet concetum vlar laknfjdnfieenfenfenjbvmrnvkrivir vjnvjv euvhj veugfyegf eewbf eofne.</div>
-	</div>
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
 </div>
 </article>
 
-<!-- Cindra========================== -->
-<article class="item">
-<div class="node">
-	<div class="circular-image">
-		<img alt="Rich Sherwell" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+ <!-- Cindra========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Cindra" class="foto-profil" src="https://lh6.googleusercontent.com/-0OsKfzbslKU/VcvyxJuSFuI/AAAAAAAABgU/WjO0DlrWHZk/" />
+   </div>
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
-Arie</h1>
-<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
-Senior Graphic Designer</h2>
-</hgroup><br />
-<div style="margin-bottom: 32px; padding: 0px;">
-<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+<hgroup>
+   <h2 class="heading-nama">
+   Cindra
+   </h2>
+<h4 class="heading-jabatan">
+   Social Media Admin
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
 </div>
-</article><article class="item" style="box-sizing: border-box; display: inline-block; max-width: 1140px; position: relative; vertical-align: top; width: 380px;"><div class="node" style="padding: 0px 32px 32px;">
-<div class="circular-image" style="background: rgb(255, 255, 255); border-radius: 50% 50% 50% 4px; box-sizing: border-box; margin-bottom: 32px; padding: 10px; position: relative; width: 316px;">
-<img alt="Arie" src="https://lh4.googleusercontent.com/-7z-FpK_3eP0/VCbJ5mkB8-I/AAAAAAAAACs/QwK8yyHACxg/s593-no/ngelamun-aja.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+</article>
+
+ <!-- Arie========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Arie" class="foto-profil" src="https://lh4.googleusercontent.com/-7z-FpK_3eP0/VCbJ5mkB8-I/AAAAAAAAACs/QwK8yyHACxg/" />
+   </div>
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
-Udafanz</h1>
-<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
-Keyword Ninja</h2>
-</hgroup><br />
-<div style="margin-bottom: 32px; padding: 0px;">
-<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+<hgroup>
+   <h2 class="heading-nama">
+   Arie
+   </h2>
+<h4 class="heading-jabatan">
+   Senior Graphic Designer
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
 </div>
-</article><article class="item" style="box-sizing: border-box; display: inline-block; max-width: 1140px; position: relative; vertical-align: top; width: 380px;"><div class="node" style="padding: 0px 32px 32px;">
-<div class="circular-image" style="background: rgb(255, 255, 255); border-radius: 50% 50% 50% 4px; box-sizing: border-box; margin-bottom: 32px; padding: 10px; position: relative; width: 316px;">
-<img alt="Arran Jacques" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+</article>
+
+ <!-- Jung========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Jung" class="foto-profil" src="https://lh4.googleusercontent.com/-KscLknkp0fI/VZDKW4Gep4I/AAAAAAAACqE/dAYRiBMJMqg/" />
+   </div>
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
-Elang</h1>
-<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
-Keyword Ninja</h2>
-</hgroup><br />
-<div style="margin-bottom: 32px; padding: 0px;">
-<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+<hgroup>
+   <h2 class="heading-nama">
+   Jung
+   </h2>
+<h4 class="heading-jabatan">
+   Junior Graphic Designer
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
 </div>
-</article><article class="item" style="box-sizing: border-box; display: inline-block; max-width: 1140px; position: relative; vertical-align: top; width: 380px;"><div class="node" style="padding: 0px 32px 32px;">
-<div class="circular-image" style="background: rgb(255, 255, 255); border-radius: 50% 50% 50% 4px; box-sizing: border-box; margin-bottom: 32px; padding: 10px; position: relative; width: 316px;">
-<img alt="Johnny Morgan" src="https://d1luk0418egahw.cloudfront.net/static/images/guide/NoImage_592x444.jpg" style="-webkit-filter: grayscale(100%); border-radius: 50%; display: block; height: auto; position: relative; width: 296px; z-index: 0;" /></div>
+</article>
+
+ <!-- Eni========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Jung" class="foto-profil" src="https://lh4.googleusercontent.com/-3EtheqJyZDg/VIE7zh0lBTI/AAAAAAAAAeA/XgJl3qwQ3dw/" />
+   </div>
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup><h1 class="heading heading-small heading-collapse-line" style="color: #008ccc; font-family: QuicksandBold; font-size: 24px; font-weight: 400; line-height: 1.2; margin: 0px 0px 8px; padding: 0px;">
-Titi</h1>
-<h2 class="heading heading-extra-small heading-collapse-line" style="font-family: QuicksandBold; font-size: 16px; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px; padding: 0px;">
-Editor</h2>
-</hgroup><br />
-<div style="margin-bottom: 32px; padding: 0px;">
-<span style="line-height: 28.7999992370605px;">Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum</span></div>
+<hgroup>
+   <h2 class="heading-nama">
+   Eni
+   </h2>
+<h4 class="heading-jabatan">
+   Illustrator
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
 </div>
-</article></div>
+</article>
+
+ <!-- Irfan========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Irfan" class="foto-profil" src="https://lh5.googleusercontent.com/-gGhD6Ewpk_M/UdmTGXJj7DI/AAAAAAAAA3s/JPRwzkVg8p0/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Irfan
+   </h2>
+<h4 class="heading-jabatan">
+   Keyword Ninja
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+
+ <!-- Elang========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Elang" class="foto-profil" src="https://lh5.googleusercontent.com/-rZs8VM9j7VA/VUv_5aBcBrI/AAAAAAAAEGk/mZhGOb7tsE4/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Elang
+   </h2>
+<h4 class="heading-jabatan">
+   Keyword Ninja
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+
+ <!-- Titi========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Titi" class="foto-profil" src="https://lh3.googleusercontent.com/-fl7dygcNvC0/VcvpGv-0eYI/AAAAAAAAAe4/wz02CvND8A8/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Titi
+   </h2>
+<h4 class="heading-jabatan">
+   Editor
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+
+ <!-- Putri========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Putri" class="foto-profil" src="https://lh4.googleusercontent.com/-kHfNP-0_RQc/AAAAAAAAAAI/AAAAAAAAAAA/XlVJdqq1jS8/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Putri
+   </h2>
+<h4 class="heading-jabatan">
+   Editor
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+
+ <!-- Erina========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Erina" class="foto-profil" src="https://lh4.googleusercontent.com/--wt34WGU2b4/UYZKTnSiT0I/AAAAAAAAAO8/xtfiMPOjCdc/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Erina
+   </h2>
+<h4 class="heading-jabatan">
+   Author
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+
+ <!-- Nurri========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Nurri" class="foto-profil" src="https://lh4.googleusercontent.com/-JBPvlbim7rY/VaSOua-El0I/AAAAAAAACVU/29Pkzpy8VQE/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Nurri
+   </h2>
+<h4 class="heading-jabatan">
+   Author
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+
+ <!-- Rinrin========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Rinrin" class="foto-profil" src="https://lh5.googleusercontent.com/-370XbWigKFQ/UohLT_meq7I/AAAAAAAAAhY/oz9w68uGdEE/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Rinrin
+   </h2>
+<h4 class="heading-jabatan">
+   Author
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+
+ <!-- Ainun========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Ainun" class="foto-profil" src="https://lh4.googleusercontent.com/-1VDGO5w_B5E/UtTR1qS8gVI/AAAAAAAABO4/8R7_Y6Pk-PY/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Ainun
+   </h2>
+<h4 class="heading-jabatan">
+   Author
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+ 
+ <!-- Ajen========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Ajen" class="foto-profil" src="https://lh4.googleusercontent.com/-kHfNP-0_RQc/AAAAAAAAAAI/AAAAAAAAAAA/XlVJdqq1jS8/" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Ajen
+   </h2>
+<h4 class="heading-jabatan">
+   Author
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+ 
+ <!-- Justina========================== -->
+ <article class="item">
+  <div class="node">
+<div class="circular-image">
+<img alt="Justina" class="foto-profil" src="https://lh6.googleusercontent.com/-NEFSQPHjLDU/Vcya4WeKfcI/AAAAAAAABsA/gVAMBdhslkc/s593-no/3c34e6e5-1bfa-4bf7-8ce4-c28361610c22" />
+   </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<hgroup>
+   <h2 class="heading-nama">
+   Justina
+   </h2>
+<h4 class="heading-jabatan">
+   Author
+   </h4>
+</hgroup>
+
+   <br />
+<div class="biosingkat">
+Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+   </div>
+</div>
+</article>
+ 
+</div>
