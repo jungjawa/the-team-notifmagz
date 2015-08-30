@@ -1,99 +1,99 @@
 <head>
- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"></link>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 
 <style>
 .node {
- color: #2d2d2d;
- font-family: QuicksandBook;
- font-size: 16px;
- line-height: 28.7999992370605px;
- padding-left: 24px;
- padding-right: 24px;
- width: 100%
+	color: #2d2d2d;
+	font-family: QuicksandBook;
+	font-size: 16px;
+	line-height: 28.7999992370605px;
+	padding-left: 24px;
+	padding-right: 24px;
+	width: 100%
 }
 
 .grid {
- color: #2d2d2d;
- font-family: QuicksandBook;
- font-size: 16px;
- line-height: 28.7999992370605px;
- margin: 0px auto;
- max-width: 1140px;
- padding-left: 0px;
- padding-right: 0px;
- position: relative;
- width: 1140px;
+	color: #2d2d2d;
+	font-family: QuicksandBook;
+	font-size: 16px;
+	line-height: 28.7999992370605px;
+	margin: 0px auto;
+	max-width: 1140px;
+	padding-left: 0px;
+	padding-right: 0px;
+	position: relative;
+	width: 1140px;
 }
 
 .item {
- box-sizing: border-box;
- display: inline-block;
- max-width: 1140px;
- position: relative;
- vertical-align: top;
- width: 33%;
+	box-sizing: border-box;
+	display: inline-block;
+	max-width: 1140px;
+	position: relative;
+	vertical-align: top;
+	width: 33%;
 }
 
 .circular-image {
- background: rgb(255, 255, 255);
- border-radius: 50% 50% 50% 4px;
- box-sizing: border-box;
- margin-bottom: 32px;
- padding: 10px;
- position: relative;
- width: 316px;
+	border-radius: 50% 50% 50% 4px;
+	box-sizing: border-box;
+	margin-bottom: 32px;
+	padding: 10px;
+	position: relative;
+	width: 316px;
 }
 
 .heading-judul {
- color: #0096db;
- font-family: 'Lato', sans-serif;
- font-size: 48px;
- font-weight: 400;
- line-height: 1;
- margin: 0px 0px 48px;
- padding: 0px;
- text-align: center;
- text-transform: uppercase;
- width: 1140px;
+	color: #0096db;
+	font-family: 'Lato', sans-serif;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 1;
+	margin: 0px 0px 48px;
+	padding: 0px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 1140px;
 }
 
-.heading-nama {
- color: #008ccc;
- font-family: 'Lato', sans-serif;
- font-size: 24px;
- font-weight: 400;
- line-height: 1.2;
- margin: 0px 0px 8px;
- padding: 0px;
- text-align: center;
+h2.heading-nama {
+	color: #008ccc;
+	font-family: 'Patua One', cursive;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 1.2;
+	margin: 0px 0px 8px;
+	padding: 0px;
+	text-align: center;
 }
 
-.heading-jabatan {
- font-family: 'Lato', sans-serif;
- font-size: 10px;
- font-weight: 400;
- line-height: 1.2;
- margin: 0px 0px 16px;
- padding: 0px;
- color: #0096db;
- text-align: center;
+h4.heading-jabatan {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 1.2;
+	margin: 0px 0px 16px;
+	padding: 0px;
+	color: #0096db;
+	text-align: center;
 }
 
 .biosingkat {
- margin-bottom: 32px;
- padding: 0px;
- text-align: center;
+	margin-bottom: 32px;
+	padding: 0px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
 }
 
 .foto-profil {
- border-radius: 50%;
- -webkit-filter: grayscale(100%);
- display: block;
- height: auto;
- position: relative;
- width: 296px;
- z-index: 0;
+	border-radius: 50%;
+	-webkit-filter: grayscale(100%);
+	display: block
+	height: auto;
+	position: relative;
+	width: 296px;
+	z-index: 0;
 }
 
 .list-inline {
@@ -112,437 +112,435 @@
 
 </style>
 
-<br />
 <div class="node">
-<h2 class="heading-judul">
- The Team
- </h2>
+	<h2 class="heading-judul">
+	The Team
+	</h2>
 </div>
+
 <div class="grid">
-<br />
-<br />
-<!-- Mahadewi========================== -->
- <br />
-<br />
-<br />
-<br />
-<article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Mahadewi" class="foto-profil" src="https://lh4.googleusercontent.com/-clNui1Uz7aA/Um4Pkypm0FI/AAAAAAAAASQ/M94KT9xnXig/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Mahadewi
-   </h2>
-<h4 class="heading-jabatan">
-   Editor in Chief
-   </h4>
-</hgroup>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+	<br />
+	<br />
 
- <!-- Cindra========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Cindra" class="foto-profil" src="https://lh6.googleusercontent.com/-0OsKfzbslKU/VcvyxJuSFuI/AAAAAAAABgU/WjO0DlrWHZk/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Cindra
-   </h2>
-<h4 class="heading-jabatan">
-   Social Media Admin
-   </h4>
-</hgroup>
+	<!-- Mahadewi========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Mahadewi" src="https://lh4.googleusercontent.com/-clNui1Uz7aA/Um4Pkypm0FI/AAAAAAAAASQ/M94KT9xnXig/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+		<hgroup>
+			<h2 class="heading-nama">
+			Mahadewi
+			</h2>
 
- <!-- Arie========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Arie" class="foto-profil" src="https://lh4.googleusercontent.com/-7z-FpK_3eP0/VCbJ5mkB8-I/AAAAAAAAACs/QwK8yyHACxg/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Arie
-   </h2>
-<h4 class="heading-jabatan">
-   Senior Graphic Designer
-   </h4>
-</hgroup>
+			<h4 class="heading-jabatan">
+			Editor in Chief
+			</h4>
+		</hgroup>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+			<br />
 
- <!-- Jung========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Jung" class="foto-profil" src="https://lh4.googleusercontent.com/-KscLknkp0fI/VZDKW4Gep4I/AAAAAAAACqE/dAYRiBMJMqg/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Jung
-   </h2>
-<h4 class="heading-jabatan">
-   Junior Graphic Designer
-   </h4>
-</hgroup>
+			<div class="biosingkat">
+			Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+			</div>
+		</div>
+	</article>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+	<!-- Cindra========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Cindra" src="https://lh6.googleusercontent.com/-0OsKfzbslKU/VcvyxJuSFuI/AAAAAAAABgU/WjO0DlrWHZk/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
 
- <!-- Eni========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Jung" class="foto-profil" src="https://lh4.googleusercontent.com/-3EtheqJyZDg/VIE7zh0lBTI/AAAAAAAAAeA/XgJl3qwQ3dw/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Eni
-   </h2>
-<h4 class="heading-jabatan">
-   Illustrator
-   </h4>
-</hgroup>
+		<hgroup>
+			<h2 class="heading-nama">
+			Cindra
+			</h2>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+			<h4 class="heading-jabatan">
+			Social Media Admin
+			</h4>
+		</hgroup>
 
- <!-- Irfan========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Irfan" class="foto-profil" src="https://lh5.googleusercontent.com/-gGhD6Ewpk_M/UdmTGXJj7DI/AAAAAAAAA3s/JPRwzkVg8p0/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Irfan
-   </h2>
-<h4 class="heading-jabatan">
-   Keyword Ninja
-   </h4>
-</hgroup>
+			<br />
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+			<div class="biosingkat">
+			Penggila komik dan penyuka cowok chubby, saingannya Drew Barrymore yang lagi ngoleksi follower di <a href="#">@cindraprasasti</a>
+			</div>
+		</div>
+	</article>
 
- <!-- Elang========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Elang" class="foto-profil" src="https://lh5.googleusercontent.com/-rZs8VM9j7VA/VUv_5aBcBrI/AAAAAAAAEGk/mZhGOb7tsE4/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Elang
-   </h2>
-<h4 class="heading-jabatan">
-   Keyword Ninja
-   </h4>
-</hgroup>
+	<!-- Arie========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Arie" src="https://lh4.googleusercontent.com/-7z-FpK_3eP0/VCbJ5mkB8-I/AAAAAAAAACs/QwK8yyHACxg/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+		<hgroup>
+			<h2 class="heading-nama">
+			Arie
+			</h2>
 
- <!-- Titi========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Titi" class="foto-profil" src="https://lh3.googleusercontent.com/-fl7dygcNvC0/VcvpGv-0eYI/AAAAAAAAAe4/wz02CvND8A8/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Titi
-   </h2>
-<h4 class="heading-jabatan">
-   Editor
-   </h4>
-</hgroup>
+			<h4 class="heading-jabatan">
+			Senior Graphic Designer
+			</h4>
+		</hgroup>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+			<br />
 
- <!-- Putri========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Putri" class="foto-profil" src="https://lh4.googleusercontent.com/-kHfNP-0_RQc/AAAAAAAAAAI/AAAAAAAAAAA/XlVJdqq1jS8/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Putri
-   </h2>
-<h4 class="heading-jabatan">
-   Editor
-   </h4>
-</hgroup>
+			<div class="biosingkat">
+			Perupa yang rupawan, lembut dan tidak pedih di mata. <a href="#">@ariejepro</a>
+			</div>
+		</div>
+	</article>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+	<!-- Jung========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Jung" src="https://lh4.googleusercontent.com/-KscLknkp0fI/VZDKW4Gep4I/AAAAAAAACqE/dAYRiBMJMqg/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
 
- <!-- Erina========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Erina" class="foto-profil" src="https://lh4.googleusercontent.com/--wt34WGU2b4/UYZKTnSiT0I/AAAAAAAAAO8/xtfiMPOjCdc/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Erina
-   </h2>
-<h4 class="heading-jabatan">
-   Author
-   </h4>
-</hgroup>
+		<hgroup>
+			<h2 class="heading-nama">
+			Jung
+			</h2>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+			<h4 class="heading-jabatan">
+			Junior Graphic Designer
+			</h4>
+		</hgroup>
 
- <!-- Nurri========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Nurri" class="foto-profil" src="https://lh4.googleusercontent.com/-JBPvlbim7rY/VaSOua-El0I/AAAAAAAACVU/29Pkzpy8VQE/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Nurri
-   </h2>
-<h4 class="heading-jabatan">
-   Author
-   </h4>
-</hgroup>
+			<br />
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+			<div class="biosingkat">
+			<i>"I like making great pixels for you"</i>
+			</div>
+		</div>
+	</article>
 
- <!-- Rinrin========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Rinrin" class="foto-profil" src="https://lh5.googleusercontent.com/-370XbWigKFQ/UohLT_meq7I/AAAAAAAAAhY/oz9w68uGdEE/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Rinrin
-   </h2>
-<h4 class="heading-jabatan">
-   Author
-   </h4>
-</hgroup>
+	<!-- Eni========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Jung" src="https://lh4.googleusercontent.com/-3EtheqJyZDg/VIE7zh0lBTI/AAAAAAAAAeA/XgJl3qwQ3dw/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
+		<hgroup>
+			<h2 class="heading-nama">
+			Eni
+			</h2>
 
- <!-- Ainun========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Ainun" class="foto-profil" src="https://lh4.googleusercontent.com/-1VDGO5w_B5E/UtTR1qS8gVI/AAAAAAAABO4/8R7_Y6Pk-PY/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Ainun
-   </h2>
-<h4 class="heading-jabatan">
-   Author
-   </h4>
-</hgroup>
+			<h4 class="heading-jabatan">
+			Illustrator
+			</h4>
+		</hgroup>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
- 
- <!-- Ajen========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Ajen" class="foto-profil" src="https://lh4.googleusercontent.com/-kHfNP-0_RQc/AAAAAAAAAAI/AAAAAAAAAAA/XlVJdqq1jS8/" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Ajen
-   </h2>
-<h4 class="heading-jabatan">
-   Author
-   </h4>
-</hgroup>
+			<br />
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
- 
- <!-- Justina========================== -->
- <article class="item">
-  <div class="node">
-<div class="circular-image">
-<img alt="Justina" class="foto-profil" src="https://lh6.googleusercontent.com/-NEFSQPHjLDU/Vcya4WeKfcI/AAAAAAAABsA/gVAMBdhslkc/s593-no/3c34e6e5-1bfa-4bf7-8ce4-c28361610c22" />
-   </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<hgroup>
-   <h2 class="heading-nama">
-   Justina
-   </h2>
-<h4 class="heading-jabatan">
-   Author
-   </h4>
-</hgroup>
+			<div class="biosingkat">
+			Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
+			</div>
+		</div>
+	</article>
 
-   <br />
-<div class="biosingkat">
-Lorem ipsum dolor sit amet. Concetum vlava sit alertum ignatum cons ins tan sangtium tak glum
-   </div>
-</div>
-</article>
- 
+	<!-- Irfan========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Irfan" src="http://lh6.googleusercontent.com/-DzsQOBKlZWs/Vc1yy-6PWsI/AAAAAAAABCo/ziK4T0NeFUs/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Irfan
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Keyword Ninja
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			@udafanz, cowok lajang yang bercita-cita keliling Indonesia sambil mencari belahan jiwanya, pemilik hidung dan pipi yang bercita rasa tinggi. 
+			</div>
+		</div>
+	</article>
+
+	<!-- Elang========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Elang" src="http://2.bp.blogspot.com/-eKYnBSpSHhs/Vc1uRbDdJtI/AAAAAAAAC6E/qid6S16NyhU/s1600/elang.jpg" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Elang
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Keyword Ninja
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			Cowok yang rasanya legit, <i>aseli</i> bikinan emak! <a href="#">@elangdrum</a>
+			</div>
+		</div>
+	</article>
+
+	<!-- Titi========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Titi" src="https://lh3.googleusercontent.com/-fl7dygcNvC0/VcvpGv-0eYI/AAAAAAAAAe4/wz02CvND8A8/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Titi
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Editor
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			Anaknya Pak Is dan Bu Siti. Baru lulus kuliah. Lagi nunggu buat dilamar. Suka jalan kaki. Demen tidur. Mau ngajak ngopi? <i>Mention</i> ke <a href="#">@titiskandar</a>
+			</div>
+		</div>
+	</article>
+
+	<!-- Putri========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Putri" src="http://1.bp.blogspot.com/-FEXtobWrFoc/Vc1uRlXdRiI/AAAAAAAAC6I/LLhzYJDpPF8/s320/put.jpg" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Putri
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Editor
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			<i>"Lifelong learner"</i> - <a href="#">@husfaniputrii</a>
+			</div>
+		</div>
+	</article>
+
+	<!-- Erina========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Erina" src="https://lh4.googleusercontent.com/--wt34WGU2b4/UYZKTnSiT0I/AAAAAAAAAO8/xtfiMPOjCdc/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Erina
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Author
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			Nyonya online shop se-Semarang. Kalau mau ngobrol santai sambil pedekate, mention aja @erinajulia
+			</div>
+		</div>
+	</article>
+
+	<!-- Nurri========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Nurri" src="https://lh4.googleusercontent.com/-JBPvlbim7rY/VaSOua-El0I/AAAAAAAACVU/29Pkzpy8VQE/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Nurri
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Author
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			Panggil saja Nurri, Tuan rumah dari  nurlianasyaf.com dan <i>twitter</i> <a href="#">@RaNurri</a> yang suka menyepi 
+			</div>
+		</div>
+	</article>
+
+	<!-- Rinrin========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Rinrin" src="https://lh5.googleusercontent.com/-370XbWigKFQ/UohLT_meq7I/AAAAAAAAAhY/oz9w68uGdEE/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Rinrin
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Author
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			<a href="#">@rinmizpoel</a> <i>is Sundanese, green lover, green tea lover, and lemon</i>
+			</div>
+		</div>
+	</article>
+
+	<!-- Ainun========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Ainun" src="https://lh4.googleusercontent.com/-1VDGO5w_B5E/UtTR1qS8gVI/AAAAAAAABO4/8R7_Y6Pk-PY/" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Ainun
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Author
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			Cewek yang masih setia dengan status karyawannya. <i>Cuss follow</i> @kimnoen
+			</div>
+		</div>
+	</article>
+	
+	<!-- Ajen========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Ajen" src="http://2.bp.blogspot.com/-q1RLzkJUiOM/Vc1uRaP1GaI/AAAAAAAAC6A/MC6ldSve1rM/s320/ajen.jpg" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Ajen
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Author
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			<a href="#">@ajenangelina</a> said: "Jangan pernah percaya sama orang yang TV-nya lebih besar daripada lemari bukunnya"
+			</div>
+		</div>
+	</article>
+	
+	<!-- Justina========================== -->
+	<article class="item">
+		<div class="node">
+			<div class="circular-image">
+				<img alt="Justina" src="https://lh6.googleusercontent.com/-NEFSQPHjLDU/Vcya4WeKfcI/AAAAAAAABsA/gVAMBdhslkc/s593-no/3c34e6e5-1bfa-4bf7-8ce4-c28361610c22" class="foto-profil" />
+			</div>
+		
+			<br />
+			<br />
+
+		<hgroup>
+			<h2 class="heading-nama">
+			Justina
+			</h2>
+
+			<h4 class="heading-jabatan">
+			Social Media Admin
+			</h4>
+		</hgroup>
+
+			<br />
+
+			<div class="biosingkat">
+			<i>Amateur writer</i> <a href="@">@justinlandhiani</a>
+			</div>
+		</div>
+	</article>
+	
 </div>
